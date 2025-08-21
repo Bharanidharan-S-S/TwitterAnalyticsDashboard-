@@ -1,14 +1,13 @@
-# TwitterAnalyticsDashboard-
 
-# 🐦 Twitter Analytics Dashboard – Power BI
+# Twitter Analytics Dashboard – Power BI
 
-## 📌 Project Overview
+## Project Overview
 This project is part of my internship with **Nullclass**, where I developed a **Real-Time Twitter Analytics Dashboard** using Power BI.  
 The dashboard provides deep insights into tweet performance, user engagement, impressions, and interaction types with advanced conditional filters.
 
 ---
 
-## ⚡ Features
+##  Features
 - **Scatter Chart** → Media Engagements vs Media Views (Replies > 10, Engagement Rate > 5%, Odd dates, Word count > 50).  
 - **Clustered Bar Chart** → URL Clicks, Profile Clicks, Hashtag Clicks by Tweet Category (Even dates, Word count > 40).  
 - **Top 10 Tweets** → Highest Retweets + Likes (Excluding weekends, Word count < 30).  
@@ -20,7 +19,7 @@ Each visualization is displayed **only during specific IST time windows** as per
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Power BI Desktop**  
 - **DAX Calculations**  
 - **Power Query**  
@@ -28,7 +27,6 @@ Each visualization is displayed **only during specific IST time windows** as per
 
 ---
 
-## 🚀 Setup Instructions
-1. Clone the repository:  
+
    ```bash
-   git clone https://github.com/Bharanidharan-S-S/TwitterAnalyticsDashboard-
+ https://github.com/Bharanidharan-S-S/TwitterAnalyticsDashboard-
